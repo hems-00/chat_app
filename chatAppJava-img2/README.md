@@ -1,9 +1,5 @@
 ## Chat application in Java
 
-# link to github repository <a href="https://github.com/harsh-agr79/chatAppJava/tree/img2"> Link </a>
-
-https://github.com/harsh-agr79/chatAppJava/tree/img2
-
 # How to run the server
 
 First to Start Our Application a server must be created and run in the local wired or wireless network
